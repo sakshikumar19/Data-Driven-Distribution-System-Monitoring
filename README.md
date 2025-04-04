@@ -26,7 +26,6 @@ The project is divided into three main phases:
 
 3. **Machine Learning for System Monitoring**
    - Implement and compare multiple ML-based monitoring techniques:
-     - **Fuzzy Logic**
      - **Random Forest (RF)**
      - **Artificial Neural Networks (ANN)**
      - **k-Nearest Neighbors (kNN)**
