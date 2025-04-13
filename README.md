@@ -16,7 +16,7 @@ The project is divided into three main phases:
 
 1. **Modeling Power Distribution Systems**
 
-   - Use OpenDSS to model IEEE 33-bus and IEEE 69-bus distribution systems.
+   - Use OpenDSS to model IEEE 33-bus distribution system.
    - Define network parameters and characteristics for accurate simulation.
 
 2. **Data Generation via Simulation**
